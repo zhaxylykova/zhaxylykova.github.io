@@ -1,0 +1,36 @@
+
+h2{
+  font-size: 29px;
+  font-weight: bold;
+  color: black;
+}
+h3{
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(7, 160, 248);
+  padding: 2%;
+}
+img{
+  width: 200px;
+  padding-left: 3%;
+  padding-top: 1%;
+}
+p{
+  font-size: 18px;
+  padding: 2%;
+  
+}
+div{
+  border-style: dashed;
+  border-color: rgb(170, 168, 168);
+  display: inline-table;
+  margin: 2%;
+}
+button{
+  margin: 2%;
+}
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/
